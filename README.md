@@ -1,7 +1,7 @@
 # MP3 player
 
-é um mp3 player que fiz com python onde queria que rodasse escondido em segundo plano
-fiz com um pouco de ajuda de IA porque tinha coisas que ainda não entendia totalmente como multithreading
+*é um mp3 player que fiz com python onde queria que rodasse escondido em segundo plano
+*fiz com um pouco de ajuda de IA porque tinha coisas que ainda não entendia totalmente como multithreading
 
 # o que ele faz
 * ele roda em segundo plano e funciona com hotkeys, tem função de pause, despause e aleatório
