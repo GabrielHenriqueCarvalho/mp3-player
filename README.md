@@ -3,8 +3,8 @@
 é um mp3 player que fiz com python onde queria que rodasse escondido em segundo plano
 
 # o que ele faz
-* ele roda em segundo plano e funciona com hotkeys, tem função de pause, despause aleatório
-* o programa sempre vai abrir com a pasta indicada no código, então se quiser que ele abra com a pasta direito teria que alterar no código, senão você pode usar a opção "carregar pasta"
+* ele roda em segundo plano e funciona com hotkeys, tem função de pause, despause e aleatório
+* o programa sempre vai abrir com a pasta indicada no código, então se quiser que ele abra com a pasta certa teria que alterar no código, senão você pode usar a opção "carregar pasta"
 * a interface é bem simples porque a ideia seria não ver ela, então não tem praticamente esforço nenhum
 
 # o que usa
