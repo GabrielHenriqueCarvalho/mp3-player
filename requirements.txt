@@ -1,0 +1,4 @@
+pygame
+keyboard
+pystray
+pillow
